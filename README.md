@@ -43,13 +43,3 @@
 
 ✨ *<span style="color:#ffb86c;">“Se você pode sonhar, você pode codar!”</span>* ✨
 
-
-### 🎨 Coisinhas legais que gosto de explorar:
-- Criar layouts intuitivos e atraentes.
-- Dominar a arte do CSS (um dia!).
-- Tornar a web mais acessível e divertida para todos.
-
----
-
-✨ *“Se você pode sonhar, você pode codar!”* ✨
-
